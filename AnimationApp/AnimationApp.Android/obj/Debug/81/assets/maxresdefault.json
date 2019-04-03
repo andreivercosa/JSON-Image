@@ -1,0 +1,12 @@
+{"skeleton":{"images":"images/"},
+"bones":[{"name":"root"}],
+"slots":[
+	{"name":"Camada 0","bone":"root","attachment":"Camada 0"}
+],
+"skins":{
+	"default":{
+		"Camada 0":{"Camada 0":{"x":266.5,"y":151.5,"width":533,"height":303}}
+	}
+},
+"animations":{"animation":{}}
+}

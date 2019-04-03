@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "C:/Users/Andrei/Desktop/Projeto/Menina/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Camada 1", "bone": "root", "attachment": "Camada 1" },
+	{ "name": "Camada 2", "bone": "root" },
+	{ "name": "Camada 3", "bone": "root" },
+	{ "name": "Camada 4", "bone": "root" },
+	{ "name": "Camada 5", "bone": "root" },
+	{ "name": "Camada 6", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Camada 1": {
+			"Camada 1": { "x": 100, "y": -100, "width": 202, "height": 202 }
+		},
+		"Camada 2": {
+			"Camada 2": { "x": 100, "y": -100, "width": 202, "height": 202 }
+		},
+		"Camada 3": {
+			"Camada 3": { "x": 100, "y": -100, "width": 202, "height": 202 }
+		},
+		"Camada 4": {
+			"Camada 4": { "x": 100, "y": -100, "width": 202, "height": 202 }
+		},
+		"Camada 5": {
+			"Camada 5": { "x": 100, "y": -100, "width": 202, "height": 202 }
+		},
+		"Camada 6": {
+			"Camada 6": { "x": 100, "y": -100, "width": 202, "height": 202 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

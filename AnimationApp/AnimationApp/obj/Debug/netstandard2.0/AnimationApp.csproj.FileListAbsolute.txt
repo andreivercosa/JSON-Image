@@ -1,0 +1,12 @@
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\bin\Debug\netstandard2.0\AnimationApp.deps.json
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\bin\Debug\netstandard2.0\AnimationApp.dll
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\AnimationApp.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\AnimationApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\AnimationApp.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\AnimationApp.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\bin\Debug\netstandard2.0\AnimationApp.pdb
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\AnimationApp.dll
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\AnimationApp.pdb
+C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp\obj\Debug\netstandard2.0\XamlC.stamp

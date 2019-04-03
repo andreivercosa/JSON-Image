@@ -1,0 +1,36 @@
+{ "skeleton": { "images": "C:\Users\Andrei\source\repos\AnimationApp\AnimationApp\AnimationApp.Android\Assets/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Camada 0", "bone": "root", "attachment": "Camada 0" },
+	{ "name": "Camada 1", "bone": "root" },
+	{ "name": "Camada 2", "bone": "root" },
+	{ "name": "Camada 3", "bone": "root" },
+	{ "name": "Camada 4", "bone": "root", "attachment": "Camada 4" },
+	{ "name": "Camada 5", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"Camada 0": {
+			"Camada 0": { "x": 500, "y": -500, "width": 1002, "height": 1002 }
+		},
+		"Camada 1": {
+			"Camada 1": { "x": 500, "y": -500, "width": 1002, "height": 1002 }
+		},
+		"Camada 2": {
+			"Camada 2": { "x": 500, "y": -500, "width": 1002, "height": 1002 }
+		},
+		"Camada 3": {
+			"Camada 3": { "x": 500, "y": -500, "width": 1002, "height": 1002 }
+		},
+		"Camada 4": {
+			"Camada 4": { "x": 507.5, "y": -366, "width": 123, "height": 74 }
+		},
+		"Camada 5": {
+			"Camada 5": { "x": 508, "y": -376, "width": 122, "height": 54 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
